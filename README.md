@@ -15,8 +15,8 @@ Included:
 ### courseScraper.js
 Searches each prefix in USC's course catalogue and returns every course id and name ([example](http://catalogue.usc.edu/search_advanced.php?cur_cat_oid=8&ecpage=1&search_database=Search&filter%5Bkeyword%5D=CSCI&filter%5Bexact_match%5D=1&filter%5B3%5D=1&filter%5B31%5D=1&sorting_type=1)).
 
-**Input: prefixes.txt
-**Output: courses.json - alphabetized list of courses with **name** & **ID** (used for querying in descriptionScraper)
+**Input**: prefixes.txt
+**Output**: courses.json - alphabetized list of courses with **name** & **ID** (used for querying in descriptionScraper)
 **Approx. Runtime**: 
 
 ### descriptionScraper.js
