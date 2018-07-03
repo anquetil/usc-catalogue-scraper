@@ -1,0 +1,3934 @@
+[
+    {
+        "category": "Bachelor's Degree",
+        "programs": [
+            {
+                "name": "Accounting (BS)",
+                "id": "7326"
+            },
+            {
+                "name": "Acting for the Stage, Screen and New Media (BFA)",
+                "id": "8183"
+            },
+            {
+                "name": "Aerospace Engineering (BS)",
+                "id": "7710"
+            },
+            {
+                "name": "American Popular Culture (BA)",
+                "id": "8146"
+            },
+            {
+                "name": "American Studies and Ethnicity (African American Studies) (BA)",
+                "id": "7365"
+            },
+            {
+                "name": "American Studies and Ethnicity (Asian American Studies) (BA)",
+                "id": "7366"
+            },
+            {
+                "name": "American Studies and Ethnicity (BA)",
+                "id": "7364"
+            },
+            {
+                "name": "American Studies and Ethnicity (Chicano/Latino Studies) (BA)",
+                "id": "7367"
+            },
+            {
+                "name": "Animation and Digital Arts (BA)",
+                "id": "7332"
+            },
+            {
+                "name": "Anthropology (BA)",
+                "id": "7372"
+            },
+            {
+                "name": "Anthropology (Visual Anthropology) (BA)",
+                "id": "7373"
+            },
+            {
+                "name": "Applied and Computational Mathematics (BA)",
+                "id": "7528"
+            },
+            {
+                "name": "Applied and Computational Mathematics (BS)",
+                "id": "7529"
+            },
+            {
+                "name": "Applied Mechanics (BS)",
+                "id": "7749"
+            },
+            {
+                "name": "Archaeology (BA)",
+                "id": "8173"
+            },
+            {
+                "name": "Architectural Studies (BS)",
+                "id": "7230"
+            },
+            {
+                "name": "Architecture (BArch)",
+                "id": "7260"
+            },
+            {
+                "name": "Art (BA)",
+                "id": "7245"
+            },
+            {
+                "name": "Art History (BA)",
+                "id": "7383"
+            },
+            {
+                "name": "Arts, Technology and the Business of Innovation (BS)",
+                "id": "7259"
+            },
+            {
+                "name": "Astronautical Engineering (BS)",
+                "id": "7720"
+            },
+            {
+                "name": "Astronomy (BA)",
+                "id": "7563"
+            },
+            {
+                "name": "Astronomy (BS)",
+                "id": "7560"
+            },
+            {
+                "name": "Biochemistry (BS)",
+                "id": "7394"
+            },
+            {
+                "name": "Biological Sciences (BA)",
+                "id": "7390"
+            },
+            {
+                "name": "Biological Sciences (BS)",
+                "id": "7391"
+            },
+            {
+                "name": "Biomedical Engineering (BS)",
+                "id": "7724"
+            },
+            {
+                "name": "Biomedical Engineering, Biochemical Engineering Emphasis, (BS)",
+                "id": "7725"
+            },
+            {
+                "name": "Biomedical Engineering, Electrical Engineering Emphasis, (BS)",
+                "id": "7726"
+            },
+            {
+                "name": "Biomedical Engineering, Mechanical Engineering Emphasis, (BS)",
+                "id": "7727"
+            },
+            {
+                "name": "Biophysics (BS)",
+                "id": "7564"
+            },
+            {
+                "name": "Business Administration (BS)",
+                "id": "7264"
+            },
+            {
+                "name": "Business Administration (Cinematic Arts) (BS)",
+                "id": "7265"
+            },
+            {
+                "name": "Business Administration (International Relations) (BS)",
+                "id": "7266"
+            },
+            {
+                "name": "Business Administration (Real Estate Finance) (BS)",
+                "id": "7267"
+            },
+            {
+                "name": "Business Administration (World Program) (BS)",
+                "id": "7268"
+            },
+            {
+                "name": "Central European Studies (BA)",
+                "id": "7598"
+            },
+            {
+                "name": "Chemical Engineering (BS)",
+                "id": "7733"
+            },
+            {
+                "name": "Chemical Engineering, Biochemical Engineering Emphasis, (BS)",
+                "id": "7734"
+            },
+            {
+                "name": "Chemical Engineering, Environmental Engineering Emphasis, (BS)",
+                "id": "7735"
+            },
+            {
+                "name": "Chemical Engineering, Nanotechnology Emphasis, (BS)",
+                "id": "7736"
+            },
+            {
+                "name": "Chemical Engineering, Petroleum Engineering Emphasis, (BS)",
+                "id": "7737"
+            },
+            {
+                "name": "Chemical Engineering, Polymer/Materials Science Emphasis, (BS)",
+                "id": "7738"
+            },
+            {
+                "name": "Chemical Engineering, Sustainable Energy Emphasis (BS)",
+                "id": "8107"
+            },
+            {
+                "name": "Chemistry (BA)",
+                "id": "7411"
+            },
+            {
+                "name": "Chemistry (BS)",
+                "id": "7407"
+            },
+            {
+                "name": "Chemistry (Chemical Biology) (BS)",
+                "id": "7410"
+            },
+            {
+                "name": "Chemistry (Chemical Nanoscience) (BS)",
+                "id": "7409"
+            },
+            {
+                "name": "Chemistry (Research) (BS)",
+                "id": "7408"
+            },
+            {
+                "name": "Choral Music (BA)",
+                "id": "7918"
+            },
+            {
+                "name": "Cinema and Media Studies (BA)",
+                "id": "8079"
+            },
+            {
+                "name": "Cinematic Arts, Film and Television Production (BA)",
+                "id": "7335"
+            },
+            {
+                "name": "Cinematic Arts, Film and Television Production (BFA)",
+                "id": "7336"
+            },
+            {
+                "name": "Civil Engineering (BS)",
+                "id": "8108"
+            },
+            {
+                "name": "Civil Engineering, Building Science Emphasis (BS)",
+                "id": "8109"
+            },
+            {
+                "name": "Civil Engineering, Environmental Engineering Emphasis (BS)",
+                "id": "8110"
+            },
+            {
+                "name": "Civil Engineering, Structural Engineering Emphasis (BS)",
+                "id": "8111"
+            },
+            {
+                "name": "Classics (BA)",
+                "id": "7417"
+            },
+            {
+                "name": "Cognitive Science (BA)",
+                "id": "7583"
+            },
+            {
+                "name": "Communication (BA)",
+                "id": "7621"
+            },
+            {
+                "name": "Comparative Literature (BA)",
+                "id": "7421"
+            },
+            {
+                "name": "Composition (BM)",
+                "id": "7904"
+            },
+            {
+                "name": "Computational Linguistics (BS)",
+                "id": "8153"
+            },
+            {
+                "name": "Computational Neuroscience (BS)",
+                "id": "7545"
+            },
+            {
+                "name": "Computer Engineering and Computer Science (BS)",
+                "id": "7758"
+            },
+            {
+                "name": "Computer Science (BS)",
+                "id": "7761"
+            },
+            {
+                "name": "Computer Science (Games) (BS)",
+                "id": "7762"
+            },
+            {
+                "name": "Computer Science/Business Administration (BS)",
+                "id": "7763"
+            },
+            {
+                "name": "Contemporary Latino and Latin American Studies",
+                "id": "8103"
+            },
+            {
+                "name": "Dance (BFA)",
+                "id": "7649"
+            },
+            {
+                "name": "Dental Hygiene (BS)",
+                "id": "7652"
+            },
+            {
+                "name": "Design (BFA)",
+                "id": "8197"
+            },
+            {
+                "name": "Earth Sciences (BA)",
+                "id": "7432"
+            },
+            {
+                "name": "East Asian Area Studies (BA)",
+                "id": "7438"
+            },
+            {
+                "name": "East Asian Languages and Cultures (BA)",
+                "id": "7444"
+            },
+            {
+                "name": "Economics (BA)",
+                "id": "7449"
+            },
+            {
+                "name": "Economics/Mathematics (BS)",
+                "id": "7452"
+            },
+            {
+                "name": "Electrical Engineering (BS)",
+                "id": "7778"
+            },
+            {
+                "name": "English (BA)",
+                "id": "7461"
+            },
+            {
+                "name": "Environmental Engineering (BS)",
+                "id": "8112"
+            },
+            {
+                "name": "Environmental Science and Health (BA)",
+                "id": "7478"
+            },
+            {
+                "name": "Environmental Science and Health (BS)",
+                "id": "7479"
+            },
+            {
+                "name": "Environmental Studies (BA)",
+                "id": "7472"
+            },
+            {
+                "name": "Environmental Studies (BS)",
+                "id": "7477"
+            },
+            {
+                "name": "Fine Arts (BFA)",
+                "id": "7244"
+            },
+            {
+                "name": "French (BA)",
+                "id": "7483"
+            },
+            {
+                "name": "Gender Studies (BA)",
+                "id": "7487"
+            },
+            {
+                "name": "GeoDesign (BS)",
+                "id": "7613"
+            },
+            {
+                "name": "Geological Sciences (BS)",
+                "id": "7431"
+            },
+            {
+                "name": "Global Geodesign (BS)",
+                "id": "10350"
+            },
+            {
+                "name": "Global Health Studies (BS)",
+                "id": "7885"
+            },
+            {
+                "name": "Global Studies (BA)",
+                "id": "7374"
+            },
+            {
+                "name": "Health and Human Sciences (BA)",
+                "id": "8152"
+            },
+            {
+                "name": "Health and Humanity (BA)",
+                "id": "7492"
+            },
+            {
+                "name": "Health Promotion and Disease Prevention Studies (BS)",
+                "id": "7884"
+            },
+            {
+                "name": "History (BA)",
+                "id": "7493"
+            },
+            {
+                "name": "History and Social Science Education (BA)",
+                "id": "7494"
+            },
+            {
+                "name": "Human Biology (BA)",
+                "id": "7393"
+            },
+            {
+                "name": "Human Biology (BS)",
+                "id": "7392"
+            },
+            {
+                "name": "Human Development and Aging (BS)",
+                "id": "7817"
+            },
+            {
+                "name": "Human Development and Aging, Health Science Track, (BS)",
+                "id": "7818"
+            },
+            {
+                "name": "Human Development and Aging, Honors Programs, (BS)",
+                "id": "7819"
+            },
+            {
+                "name": "Industrial and Systems Engineering (BS)",
+                "id": "7789"
+            },
+            {
+                "name": "Informatics (BA)",
+                "id": "8189"
+            },
+            {
+                "name": "Intelligence and Cyber Operations (BA)",
+                "id": "10344"
+            },
+            {
+                "name": "Interactive Entertainment (BA)",
+                "id": "7338"
+            },
+            {
+                "name": "International Relations (BA)",
+                "id": "7504"
+            },
+            {
+                "name": "International Relations (Global Business) (BA)",
+                "id": "7505"
+            },
+            {
+                "name": "International Relations and the Global Economy (BA)",
+                "id": "7506"
+            },
+            {
+                "name": "Italian (BA)",
+                "id": "7485"
+            },
+            {
+                "name": "Jazz Studies (BM)",
+                "id": "7905"
+            },
+            {
+                "name": "Jewish Studies (BA)",
+                "id": "8104"
+            },
+            {
+                "name": "Journalism (BA)",
+                "id": "8123"
+            },
+            {
+                "name": "Latin American and Iberian Cultures, Media and Politics",
+                "id": "8194"
+            },
+            {
+                "name": "Law, History, and Culture (BA)",
+                "id": "7495"
+            },
+            {
+                "name": "Lifespan Health (BS)",
+                "id": "7820"
+            },
+            {
+                "name": "Linguistics (BA)",
+                "id": "7516"
+            },
+            {
+                "name": "Linguistics and Cognitive Science (BA)",
+                "id": "8080"
+            },
+            {
+                "name": "Mathematics (BA)",
+                "id": "7526"
+            },
+            {
+                "name": "Mathematics (BS)",
+                "id": "7527"
+            },
+            {
+                "name": "Mechanical Engineering (BS)",
+                "id": "7714"
+            },
+            {
+                "name": "Mechanical Engineering, Petroleum Engineering (BS)",
+                "id": "7715"
+            },
+            {
+                "name": "Media Arts and Practice (BA)",
+                "id": "7342"
+            },
+            {
+                "name": "Middle East Studies (BA)",
+                "id": "7540"
+            },
+            {
+                "name": "Molecular Genetics and Biochemistry (MS)",
+                "id": "7402"
+            },
+            {
+                "name": "Music (BA)",
+                "id": "7917"
+            },
+            {
+                "name": "Music Industry (BM)",
+                "id": "7915"
+            },
+            {
+                "name": "Music Industry (BS)",
+                "id": "7916"
+            },
+            {
+                "name": "Music Production (BM)",
+                "id": "7906"
+            },
+            {
+                "name": "Narrative Studies (BA)",
+                "id": "7463"
+            },
+            {
+                "name": "Neuroscience (BA)",
+                "id": "7543"
+            },
+            {
+                "name": "Neuroscience (BS)",
+                "id": "7544"
+            },
+            {
+                "name": "Non-Governmental Organizations and Social Change (BA)",
+                "id": "7603"
+            },
+            {
+                "name": "Occupational Therapy (BS)",
+                "id": "7841"
+            },
+            {
+                "name": "Performance (Classical Guitar) (BM)",
+                "id": "7908"
+            },
+            {
+                "name": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion) (BM)",
+                "id": "7913"
+            },
+            {
+                "name": "Performance (Organ) (BM)",
+                "id": "7910"
+            },
+            {
+                "name": "Performance (Piano) (BM)",
+                "id": "7909"
+            },
+            {
+                "name": "Performance (Popular Music) (BM)",
+                "id": "7914"
+            },
+            {
+                "name": "Performance (Studio Guitar) (BM)",
+                "id": "7907"
+            },
+            {
+                "name": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp) (BM)",
+                "id": "7911"
+            },
+            {
+                "name": "Performance (Vocal Arts) (BM)",
+                "id": "7912"
+            },
+            {
+                "name": "Pharmacology and Drug Development (BS)",
+                "id": "8192"
+            },
+            {
+                "name": "Philosophy (BA)",
+                "id": "7549"
+            },
+            {
+                "name": "Philosophy and Physics (BA)",
+                "id": "10355"
+            },
+            {
+                "name": "Philosophy, Politics and Law (BA)",
+                "id": "7550"
+            },
+            {
+                "name": "Physical Sciences (BS)",
+                "id": "7433"
+            },
+            {
+                "name": "Physical Sciences (BS)",
+                "id": "7565"
+            },
+            {
+                "name": "Physics (BA)",
+                "id": "7562"
+            },
+            {
+                "name": "Physics (BS)",
+                "id": "7559"
+            },
+            {
+                "name": "Physics/Computer Science (BS)",
+                "id": "7561"
+            },
+            {
+                "name": "Political Economy (BA)",
+                "id": "7450"
+            },
+            {
+                "name": "Political Science (BA)",
+                "id": "7571"
+            },
+            {
+                "name": "Psychology (BA)",
+                "id": "7580"
+            },
+            {
+                "name": "Public Policy (BS)",
+                "id": "8073"
+            },
+            {
+                "name": "Public Relations (BA)",
+                "id": "7641"
+            },
+            {
+                "name": "Quantitative Biology (BS)",
+                "id": "8179"
+            },
+            {
+                "name": "Real Estate Development (BS)",
+                "id": "7981"
+            },
+            {
+                "name": "Religion (BA)",
+                "id": "7591"
+            },
+            {
+                "name": "Russian (BA)",
+                "id": "7597"
+            },
+            {
+                "name": "Social Sciences, with an Emphasis in Economics (BA)",
+                "id": "7451"
+            },
+            {
+                "name": "Social Sciences, with an Emphasis in Psychology (BA)",
+                "id": "7581"
+            },
+            {
+                "name": "Sociology (BA)",
+                "id": "7602"
+            },
+            {
+                "name": "Spanish (BA)",
+                "id": "7610"
+            },
+            {
+                "name": "Theatre (BA)",
+                "id": "7673"
+            },
+            {
+                "name": "Theatre, Acting Emphasis, (BA)",
+                "id": "7674"
+            },
+            {
+                "name": "Theatre, Design Emphasis, (BA)",
+                "id": "7675"
+            },
+            {
+                "name": "Theatre, Design Emphasis, (BFA)",
+                "id": "7677"
+            },
+            {
+                "name": "Theatre, Sound Design Emphasis, (BFA)",
+                "id": "7678"
+            },
+            {
+                "name": "Theatre, Stage Management Emphasis, (BFA)",
+                "id": "7679"
+            },
+            {
+                "name": "Theatre, Technical Direction Emphasis, (BFA)",
+                "id": "7680"
+            },
+            {
+                "name": "Urban Studies and Planning (BS)",
+                "id": "8074"
+            },
+            {
+                "name": "Visual and Performing Arts Studies (BA)",
+                "id": "7681"
+            },
+            {
+                "name": "Writing for Screen and Television (BFA)",
+                "id": "7347"
+            }
+        ]
+    },
+    {
+        "category": "Combined Major",
+        "programs": [
+            {
+                "name": "Linguistics and East Asian Languages and Cultures (BA)",
+                "id": "7518"
+            },
+            {
+                "name": "Linguistics and Philosophy (BA)",
+                "id": "7517"
+            },
+            {
+                "name": "Mathematics/Economics (BS)",
+                "id": "7532"
+            }
+        ]
+    },
+    {
+        "category": "Undergraduate Certificate",
+        "programs": [
+            {
+                "name": "Food Industry Management Program",
+                "id": "7269"
+            }
+        ]
+    },
+    {
+        "category": "Honors",
+        "programs": [
+            {
+                "name": "Honors in Multimedia Scholarship",
+                "id": "7343"
+            }
+        ]
+    },
+    {
+        "category": "Minor",
+        "programs": [
+            {
+                "name": "2-D Art for Games Minor",
+                "id": "7254"
+            },
+            {
+                "name": "3-D Animation in Cinematic Arts Minor",
+                "id": "8089"
+            },
+            {
+                "name": "3-D Art for Games Minor",
+                "id": "7256"
+            },
+            {
+                "name": "3-Dimensional Design Minor",
+                "id": "7255"
+            },
+            {
+                "name": "3D Computer Graphics and Modeling",
+                "id": "8124"
+            },
+            {
+                "name": "Accounting Minor",
+                "id": "7327"
+            },
+            {
+                "name": "Advertising Minor",
+                "id": "7642"
+            },
+            {
+                "name": "American Popular Culture Minor",
+                "id": "7369"
+            },
+            {
+                "name": "American Studies and Ethnicity Minor",
+                "id": "7368"
+            },
+            {
+                "name": "Animation and Digital Arts Minor",
+                "id": "7350"
+            },
+            {
+                "name": "Applied Analytics Minor",
+                "id": "8072"
+            },
+            {
+                "name": "Applied Computer Security Minor",
+                "id": "7800"
+            },
+            {
+                "name": "Applied Theatre Arts Minor",
+                "id": "7682"
+            },
+            {
+                "name": "Arabic Minor",
+                "id": "8088"
+            },
+            {
+                "name": "Archaeology Minor",
+                "id": "8166"
+            },
+            {
+                "name": "Archaeology of California Minor",
+                "id": "8167"
+            },
+            {
+                "name": "Architecture Minor",
+                "id": "7231"
+            },
+            {
+                "name": "Art History Minor",
+                "id": "7384"
+            },
+            {
+                "name": "Astronautical Engineering Minor",
+                "id": "7721"
+            },
+            {
+                "name": "Astronomy Minor",
+                "id": "7567"
+            },
+            {
+                "name": "Behavioral Economics Minor",
+                "id": "8090"
+            },
+            {
+                "name": "Biotechnology Minor",
+                "id": "7395"
+            },
+            {
+                "name": "Business Economics Minor",
+                "id": "7271"
+            },
+            {
+                "name": "Business Finance Minor",
+                "id": "7272"
+            },
+            {
+                "name": "Business Law Minor",
+                "id": "7273"
+            },
+            {
+                "name": "Business Minor",
+                "id": "7270"
+            },
+            {
+                "name": "Business Technology Fusion Minor",
+                "id": "7274"
+            },
+            {
+                "name": "Ceramics Minor",
+                "id": "7246"
+            },
+            {
+                "name": "Chemistry Minor",
+                "id": "7413"
+            },
+            {
+                "name": "Chinese for the Professions",
+                "id": "8057"
+            },
+            {
+                "name": "Cinema-Television for the Health Professions Minor",
+                "id": "7886"
+            },
+            {
+                "name": "Cinematic Arts Minor",
+                "id": "7351"
+            },
+            {
+                "name": "Classical Greek Minor",
+                "id": "8149"
+            },
+            {
+                "name": "Classical Perspectives Minor",
+                "id": "8105"
+            },
+            {
+                "name": "Classics Minor",
+                "id": "7418"
+            },
+            {
+                "name": "Comedy (Performance) Minor",
+                "id": "7683"
+            },
+            {
+                "name": "Comedy Minor",
+                "id": "7352"
+            },
+            {
+                "name": "Communication Design Minor",
+                "id": "7247"
+            },
+            {
+                "name": "Communication Policy and Law Minor",
+                "id": "8091"
+            },
+            {
+                "name": "Communication Technology Practices and Platforms Minor",
+                "id": "7623"
+            },
+            {
+                "name": "Comparative Literature Minor",
+                "id": "7422"
+            },
+            {
+                "name": "Computational Biology and Bioinformatics Minor",
+                "id": "7396"
+            },
+            {
+                "name": "Computer and Digital Forensics Minor",
+                "id": "7801"
+            },
+            {
+                "name": "Computer Programming Minor",
+                "id": "7802"
+            },
+            {
+                "name": "Computer Science Minor",
+                "id": "10305"
+            },
+            {
+                "name": "Connected Devices and Making Minor",
+                "id": "10313"
+            },
+            {
+                "name": "Construction Planning and Management Minor",
+                "id": "7750"
+            },
+            {
+                "name": "Construction Planning and Management Minor (Public Policy)",
+                "id": "8049"
+            },
+            {
+                "name": "Consumer Behavior Interdisciplinary Minor",
+                "id": "7586"
+            },
+            {
+                "name": "Consumer Behavior Minor",
+                "id": "7275"
+            },
+            {
+                "name": "Contemplative Studies Minor",
+                "id": "10303"
+            },
+            {
+                "name": "Craniofacial and Dental Technology Minor",
+                "id": "7653"
+            },
+            {
+                "name": "Critical Approaches to Leadership Minor",
+                "id": "7502"
+            },
+            {
+                "name": "Cultural Anthropology Minor",
+                "id": "7375"
+            },
+            {
+                "name": "Cultural Competence in Medicine Minor",
+                "id": "7887"
+            },
+            {
+                "name": "Cultural Diplomacy Minor",
+                "id": "10314"
+            },
+            {
+                "name": "Cultural Studies Minor",
+                "id": "7464"
+            },
+            {
+                "name": "Culture, Media and Entertainment Minor",
+                "id": "7622"
+            },
+            {
+                "name": "Cultures and Politics of the Pacific Rim Minor",
+                "id": "7446"
+            },
+            {
+                "name": "Dance in Entertainment Minor",
+                "id": "8170"
+            },
+            {
+                "name": "Dance Minor",
+                "id": "7651"
+            },
+            {
+                "name": "Designing for Experiences Minor",
+                "id": "10347"
+            },
+            {
+                "name": "Digital Studies Minor",
+                "id": "7353"
+            },
+            {
+                "name": "Digital Studio Minor",
+                "id": "7248"
+            },
+            {
+                "name": "Disruptive Innovation Minor",
+                "id": "10348"
+            },
+            {
+                "name": "Documentary Minor",
+                "id": "10315"
+            },
+            {
+                "name": "Drawing Minor",
+                "id": "7249"
+            },
+            {
+                "name": "Early Modern Studies Interdisciplinary Minor",
+                "id": "7465"
+            },
+            {
+                "name": "Earth Sciences Minor: Climate Change, Stewardship and Resiliency",
+                "id": "8062"
+            },
+            {
+                "name": "East Asian Area Studies Minor",
+                "id": "7439"
+            },
+            {
+                "name": "East Asian Languages and Cultures Minor",
+                "id": "7445"
+            },
+            {
+                "name": "Economics Minor",
+                "id": "7453"
+            },
+            {
+                "name": "Education and Society Minor",
+                "id": "7689"
+            },
+            {
+                "name": "Engineering Management Minor",
+                "id": "7790"
+            },
+            {
+                "name": "English Minor",
+                "id": "7462"
+            },
+            {
+                "name": "Enterprise Information Systems Minor",
+                "id": "7803"
+            },
+            {
+                "name": "Entertainment Industry Minor",
+                "id": "7354"
+            },
+            {
+                "name": "Entrepreneurship Minor",
+                "id": "7276"
+            },
+            {
+                "name": "Environmental Chemistry and Sustainability Minor",
+                "id": "7414"
+            },
+            {
+                "name": "Environmental Engineering Minor",
+                "id": "7757"
+            },
+            {
+                "name": "Environmental Health Minor",
+                "id": "7888"
+            },
+            {
+                "name": "Environmental Studies Minor",
+                "id": "7480"
+            },
+            {
+                "name": "Ethics and Moral Philosophy Minor",
+                "id": "7551"
+            },
+            {
+                "name": "Folklore and Popular Culture Minor",
+                "id": "7376"
+            },
+            {
+                "name": "Forensics and Criminality Minor",
+                "id": "7605"
+            },
+            {
+                "name": "French Minor",
+                "id": "7484"
+            },
+            {
+                "name": "Future Cinema Minor",
+                "id": "8155"
+            },
+            {
+                "name": "Game Animation Minor",
+                "id": "7355"
+            },
+            {
+                "name": "Game Audio Minor",
+                "id": "7356"
+            },
+            {
+                "name": "Game Design Minor",
+                "id": "7357"
+            },
+            {
+                "name": "Game Entrepreneurism Minor",
+                "id": "7358"
+            },
+            {
+                "name": "Game Studies Minor",
+                "id": "7359"
+            },
+            {
+                "name": "Game User Research Minor",
+                "id": "7360"
+            },
+            {
+                "name": "Gender and Social Justice Minor",
+                "id": "8098"
+            },
+            {
+                "name": "Gender Studies Minor",
+                "id": "7488"
+            },
+            {
+                "name": "Geobiology Minor",
+                "id": "7434"
+            },
+            {
+                "name": "Geohazards Minor",
+                "id": "7435"
+            },
+            {
+                "name": "German Studies Minor",
+                "id": "7491"
+            },
+            {
+                "name": "GIS and Sustainability Science Minor",
+                "id": "10316"
+            },
+            {
+                "name": "Global Communication Minor",
+                "id": "7508"
+            },
+            {
+                "name": "Global Health Minor",
+                "id": "7889"
+            },
+            {
+                "name": "Health Administration Minor",
+                "id": "7982"
+            },
+            {
+                "name": "Health Care Studies Minor",
+                "id": "7876"
+            },
+            {
+                "name": "Health Communication Minor",
+                "id": "7890"
+            },
+            {
+                "name": "Health Policy Minor",
+                "id": "7983"
+            },
+            {
+                "name": "Hip Hop, Street and Social Dance Forms Minor",
+                "id": "8163"
+            },
+            {
+                "name": "History and Culture of Business Minor",
+                "id": "7498"
+            },
+            {
+                "name": "History Minor",
+                "id": "7497"
+            },
+            {
+                "name": "Human Movement Sciences Minor",
+                "id": "8064"
+            },
+            {
+                "name": "Human Resource Management Minor",
+                "id": "7277"
+            },
+            {
+                "name": "Human Rights Minor",
+                "id": "7573"
+            },
+            {
+                "name": "Human Security and Geospatial Intelligence Minor",
+                "id": "8134"
+            },
+            {
+                "name": "Immersive Media Minor",
+                "id": "8181"
+            },
+            {
+                "name": "Individuals, Societies and Aging Minor",
+                "id": "7821"
+            },
+            {
+                "name": "Innovation: The Digital Entrepreneur Minor",
+                "id": "7278"
+            },
+            {
+                "name": "International Health, Development, and Social Justice Interdisciplinary Minor",
+                "id": "7503"
+            },
+            {
+                "name": "International Policy and Management Minor",
+                "id": "7509"
+            },
+            {
+                "name": "International Relations Minor",
+                "id": "7507"
+            },
+            {
+                "name": "Internet of Things Engineering Minor",
+                "id": "10317"
+            },
+            {
+                "name": "Iranian Studies Minor",
+                "id": "7541"
+            },
+            {
+                "name": "Italian Minor",
+                "id": "7486"
+            },
+            {
+                "name": "Jazz Studies Minor",
+                "id": "7921"
+            },
+            {
+                "name": "Jewish American Studies Minor (American Studies)",
+                "id": "7370"
+            },
+            {
+                "name": "Jewish American Studies Minor (Jewish Studies)",
+                "id": "7514"
+            },
+            {
+                "name": "Jewish Studies Minor",
+                "id": "8099"
+            },
+            {
+                "name": "Judaic Studies Minor",
+                "id": "7513"
+            },
+            {
+                "name": "Justice, Voice, and Advocacy Minor",
+                "id": "8171"
+            },
+            {
+                "name": "Korean Studies Minor",
+                "id": "7440"
+            },
+            {
+                "name": "Landscape Architecture Minor",
+                "id": "7232"
+            },
+            {
+                "name": "Latin American Studies Minor",
+                "id": "7612"
+            },
+            {
+                "name": "Latin Minor",
+                "id": "8148"
+            },
+            {
+                "name": "Law and Public Policy Minor",
+                "id": "7984"
+            },
+            {
+                "name": "Law and Society Minor",
+                "id": "7574"
+            },
+            {
+                "name": "LGBTQ Studies Minor",
+                "id": "7489"
+            },
+            {
+                "name": "Linguistics Minor",
+                "id": "7519"
+            },
+            {
+                "name": "Luso-Brazilian Studies Minor",
+                "id": "8100"
+            },
+            {
+                "name": "Management Consulting Minor",
+                "id": "7279"
+            },
+            {
+                "name": "Managing Human Relations Minor",
+                "id": "7606"
+            },
+            {
+                "name": "Marine Biology Minor",
+                "id": "8145"
+            },
+            {
+                "name": "Marketing Minor",
+                "id": "7280"
+            },
+            {
+                "name": "Mathematical Finance Minor",
+                "id": "7525"
+            },
+            {
+                "name": "Mathematics Minor",
+                "id": "7531"
+            },
+            {
+                "name": "Media and Social Change Minor",
+                "id": "7361"
+            },
+            {
+                "name": "Media Economics and Entrepreneurship Minor",
+                "id": "7289"
+            },
+            {
+                "name": "Medical Anthropology Minor",
+                "id": "7377"
+            },
+            {
+                "name": "Middle East Studies Minor",
+                "id": "7542"
+            },
+            {
+                "name": "Mobile App Development Minor",
+                "id": "7804"
+            },
+            {
+                "name": "Modern Art Markets and Ethics Minor",
+                "id": "10334"
+            },
+            {
+                "name": "Multimedia for Designers and Entrepreneurs Minor",
+                "id": "10349"
+            },
+            {
+                "name": "Music Industry Minor",
+                "id": "7920"
+            },
+            {
+                "name": "Music Production Minor",
+                "id": "8059"
+            },
+            {
+                "name": "Music Recording Minor",
+                "id": "7919"
+            },
+            {
+                "name": "Musical Studies Minor",
+                "id": "7923"
+            },
+            {
+                "name": "Musical Theatre Minor",
+                "id": "7922"
+            },
+            {
+                "name": "Nanotechnology Minor",
+                "id": "8114"
+            },
+            {
+                "name": "Native American Studies Minor",
+                "id": "8172"
+            },
+            {
+                "name": "Natural Science Minor",
+                "id": "7397"
+            },
+            {
+                "name": "Neuroscience Minor",
+                "id": "7546"
+            },
+            {
+                "name": "News Media and Society Minor",
+                "id": "7643"
+            },
+            {
+                "name": "Nonprofits, Philanthropy and Volunteerism Interdisciplinary Minor",
+                "id": "8070"
+            },
+            {
+                "name": "Nonprofits, Philanthropy and Volunteerism Minor",
+                "id": "7985"
+            },
+            {
+                "name": "Nutrition and Health Promotion Minor",
+                "id": "7892"
+            },
+            {
+                "name": "Occupational Science Minor",
+                "id": "7842"
+            },
+            {
+                "name": "Operations and Supply Chain Management Minor",
+                "id": "7281"
+            },
+            {
+                "name": "Organizational Leadership and Management Minor",
+                "id": "7282"
+            },
+            {
+                "name": "Painting Minor",
+                "id": "7250"
+            },
+            {
+                "name": "Performance Science Minor",
+                "id": "8101"
+            },
+            {
+                "name": "Performing Arts Studies Minor",
+                "id": "7684"
+            },
+            {
+                "name": "Petroleum Engineering Minor",
+                "id": "7743"
+            },
+            {
+                "name": "Philosophy for Business, Law, and the Professions Minor",
+                "id": "7554"
+            },
+            {
+                "name": "Philosophy Minor",
+                "id": "7552"
+            },
+            {
+                "name": "Photography and Social Change Minor",
+                "id": "7607"
+            },
+            {
+                "name": "Photography Minor",
+                "id": "7251"
+            },
+            {
+                "name": "Physics Minor",
+                "id": "7566"
+            },
+            {
+                "name": "Playwriting Minor",
+                "id": "7685"
+            },
+            {
+                "name": "Political Organizing in the Digital Age Minor",
+                "id": "7576"
+            },
+            {
+                "name": "Political Science Minor",
+                "id": "7572"
+            },
+            {
+                "name": "Popular Music Studies Minor",
+                "id": "7924"
+            },
+            {
+                "name": "Practical Politics Minor",
+                "id": "8156"
+            },
+            {
+                "name": "Product Design Minor",
+                "id": "10352"
+            },
+            {
+                "name": "Professional and Managerial Communication Minor",
+                "id": "7624"
+            },
+            {
+                "name": "Psychology and Law Minor",
+                "id": "7585"
+            },
+            {
+                "name": "Psychology Minor",
+                "id": "7584"
+            },
+            {
+                "name": "Public Health Minor",
+                "id": "7891"
+            },
+            {
+                "name": "Public Relations Minor",
+                "id": "8092"
+            },
+            {
+                "name": "Race, Ethnicity and Politics Minor",
+                "id": "7575"
+            },
+            {
+                "name": "Real Estate Development Minor",
+                "id": "7986"
+            },
+            {
+                "name": "Real Estate Finance Minor",
+                "id": "10321"
+            },
+            {
+                "name": "Religion Minor",
+                "id": "7595"
+            },
+            {
+                "name": "Resistance to Genocide Interdisciplinary Minor",
+                "id": "7496"
+            },
+            {
+                "name": "Risk Management Minor",
+                "id": "10318"
+            },
+            {
+                "name": "Russian Area Studies Minor",
+                "id": "7600"
+            },
+            {
+                "name": "Russian Minor",
+                "id": "7599"
+            },
+            {
+                "name": "Science and Management of Biomedical Therapeutics Minor",
+                "id": "8102"
+            },
+            {
+                "name": "Science Visualization Minor",
+                "id": "7362"
+            },
+            {
+                "name": "Science, Health and Aging Minor",
+                "id": "7822"
+            },
+            {
+                "name": "Screenwriting Minor",
+                "id": "7363"
+            },
+            {
+                "name": "Sculpture Minor",
+                "id": "7252"
+            },
+            {
+                "name": "Social Entrepreneurship Minor",
+                "id": "7284"
+            },
+            {
+                "name": "Sociology Minor",
+                "id": "7604"
+            },
+            {
+                "name": "Songwriting Minor",
+                "id": "7925"
+            },
+            {
+                "name": "Southeast Asia and its People Minor",
+                "id": "7378"
+            },
+            {
+                "name": "Spanish Minor",
+                "id": "7611"
+            },
+            {
+                "name": "Spatial Studies Minor",
+                "id": "7614"
+            },
+            {
+                "name": "Sports Media Industries Minor",
+                "id": "8168"
+            },
+            {
+                "name": "Sports Media Studies Minor",
+                "id": "7625"
+            },
+            {
+                "name": "Statistics Minor",
+                "id": "7530"
+            },
+            {
+                "name": "Substance Abuse Prevention Minor",
+                "id": "7893"
+            },
+            {
+                "name": "Teaching English to Speakers of Other Languages (TESOL) Minor",
+                "id": "7690"
+            },
+            {
+                "name": "Technology Commercialization Minor",
+                "id": "7285"
+            },
+            {
+                "name": "The Dynamics of Early Childhood Minor",
+                "id": "8054"
+            },
+            {
+                "name": "Theatre Minor",
+                "id": "7686"
+            },
+            {
+                "name": "Thematic Approaches to Humanities and Society Minor",
+                "id": "7620"
+            },
+            {
+                "name": "Themed Entertainment Minor",
+                "id": "8106"
+            },
+            {
+                "name": "Theories of Art Minor",
+                "id": "7553"
+            },
+            {
+                "name": "Two-Dimensional Studies Minor",
+                "id": "7253"
+            },
+            {
+                "name": "Urban Sustainable Planning Minor",
+                "id": "8094"
+            },
+            {
+                "name": "User Experience Minor",
+                "id": "8182"
+            },
+            {
+                "name": "Video Game Design and Management Minor",
+                "id": "7805"
+            },
+            {
+                "name": "Video Game Programming Minor",
+                "id": "7806"
+            },
+            {
+                "name": "Visual Culture Minor",
+                "id": "7385"
+            },
+            {
+                "name": "Web Technologies and Applications Minor",
+                "id": "7807"
+            }
+        ]
+    },
+    {
+        "category": "Interdisciplinary Minors",
+        "programs": [
+            {
+                "name": "Narrative Structure Interdisciplinary Minor",
+                "id": "7466"
+            }
+        ]
+    },
+    {
+        "category": "Joint Degree",
+        "programs": [
+            {
+                "name": "Master of Science in Computer Science Dual Degree with Tsinghua University School of Information Science and Technology – China",
+                "id": "7775"
+            }
+        ]
+    },
+    {
+        "category": "Diploma",
+        "programs": [
+            {
+                "name": "Artist Diploma Program",
+                "id": "8038"
+            }
+        ]
+    },
+    {
+        "category": "Master of Business Administration",
+        "programs": [
+            {
+                "name": "Executive MBA Program",
+                "id": "7290"
+            },
+            {
+                "name": "Full-time MBA Program",
+                "id": "7286"
+            },
+            {
+                "name": "International MBA Program",
+                "id": "7291"
+            },
+            {
+                "name": "MBA Program for Professionals and Managers",
+                "id": "7287"
+            },
+            {
+                "name": "Online MBA Program",
+                "id": "7288"
+            }
+        ]
+    },
+    {
+        "category": "MBA Dual Degree Programs",
+        "programs": [
+            {
+                "name": "Juris Doctor/Master of Business Administration (JD/MBA)",
+                "id": "7293"
+            },
+            {
+                "name": "Master of Business Administration/Doctor of Education (MBA/EdD)",
+                "id": "7705"
+            },
+            {
+                "name": "Master of Business Administration/Doctor of Medicine (MBA/MD)",
+                "id": "7300"
+            },
+            {
+                "name": "Master of Business Administration/Doctor of Pharmacy (MBA/PharmD)",
+                "id": "7301"
+            },
+            {
+                "name": "Master of Business Administration/Master of Arts in East Asian Area Studies (MBA/MA)",
+                "id": "7294"
+            },
+            {
+                "name": "Master of Business Administration/Master of Arts in Jewish Nonprofit Management (MBA/MA)",
+                "id": "7302"
+            },
+            {
+                "name": "Master of Business Administration/Master of Planning (MBA/MPl)",
+                "id": "7295"
+            },
+            {
+                "name": "Master of Business Administration/Master of Real Estate Development (MBA/MRED)",
+                "id": "8051"
+            },
+            {
+                "name": "Master of Business Administration/Master of Science in Gerontology (MBA/MS)",
+                "id": "7297"
+            },
+            {
+                "name": "Master of Business Administration/Master of Science in Industrial and Systems Engineering (MBA/MS)",
+                "id": "7298"
+            },
+            {
+                "name": "Master of Business Administration/Master of Science, Systems Architecting and Engineering (MBA/MS)",
+                "id": "10327"
+            },
+            {
+                "name": "Master of Business Administration/Master of Social Work (MBA/MSW)",
+                "id": "7303"
+            }
+        ]
+    },
+    {
+        "category": "Master's Degree",
+        "programs": [
+            {
+                "name": "Academic Medicine (MACM)",
+                "id": "7869"
+            },
+            {
+                "name": "Accounting (Data and Analytics) (MAcc)",
+                "id": "8193"
+            },
+            {
+                "name": "Accounting (MAcc)",
+                "id": "7328"
+            },
+            {
+                "name": "Advanced Architectural Studies (MAAS)",
+                "id": "7262"
+            },
+            {
+                "name": "Advanced Orofacial Pain and Oral Medicine (MS)",
+                "id": "7662"
+            },
+            {
+                "name": "Advanced Placement Gerontology (MS)",
+                "id": "7824"
+            },
+            {
+                "name": "Aerospace and Mechanical Engineering (Computational Fluid and Solid Mechanics) (MS)",
+                "id": "7712"
+            },
+            {
+                "name": "Aerospace and Mechanical Engineering (Dynamics and Control) (MS)",
+                "id": "7718"
+            },
+            {
+                "name": "Aerospace Engineering (MS)",
+                "id": "7711"
+            },
+            {
+                "name": "Aerospace Engineering/Engineering Management (MS)",
+                "id": "7713"
+            },
+            {
+                "name": "Aging Services Management (MASM)",
+                "id": "7825"
+            },
+            {
+                "name": "Alternative Certification Master of Arts in Teaching, Multiple Subject",
+                "id": "7692"
+            },
+            {
+                "name": "Alternative Certification Master of Arts in Teaching, Single Subject",
+                "id": "8128"
+            },
+            {
+                "name": "Alternative Dispute Resolution (LLM)",
+                "id": "8076"
+            },
+            {
+                "name": "Analytics (MS)",
+                "id": "7791"
+            },
+            {
+                "name": "Animation and Digital Arts (MFA)",
+                "id": "7333"
+            },
+            {
+                "name": "Anthropology (MA)",
+                "id": "7379"
+            },
+            {
+                "name": "Applied Behavior Analysis (MS)",
+                "id": "8130"
+            },
+            {
+                "name": "Applied Biostatistics/Epidemiology (MS)",
+                "id": "7894"
+            },
+            {
+                "name": "Applied Data Science (MS)",
+                "id": "10302"
+            },
+            {
+                "name": "Applied Mathematics (MA)",
+                "id": "7537"
+            },
+            {
+                "name": "Applied Mathematics (MS)",
+                "id": "7533"
+            },
+            {
+                "name": "Applied Psychology (MS)",
+                "id": "7588"
+            },
+            {
+                "name": "Applied Theatre Arts (MA)",
+                "id": "7688"
+            },
+            {
+                "name": "Architecture (MArch)",
+                "id": "7261"
+            },
+            {
+                "name": "Art History (MA)",
+                "id": "7386"
+            },
+            {
+                "name": "Arts Leadership (MS)",
+                "id": "8186"
+            },
+            {
+                "name": "Astronautical Engineering (MS)",
+                "id": "7722"
+            },
+            {
+                "name": "Biochemistry and Molecular Medicine (MS)",
+                "id": "8151"
+            },
+            {
+                "name": "Biokinesiology (MS)",
+                "id": "7836"
+            },
+            {
+                "name": "Biokinesiology (Sports Science) (MS)",
+                "id": "10322"
+            },
+            {
+                "name": "Biology (MS)",
+                "id": "7398"
+            },
+            {
+                "name": "Biomaterials and Digital Dentistry (MS)",
+                "id": "10297"
+            },
+            {
+                "name": "Biomedical Engineering (Medical Imaging and Imaging Informatics) (MS)",
+                "id": "7729"
+            },
+            {
+                "name": "Biomedical Engineering (MS)",
+                "id": "7728"
+            },
+            {
+                "name": "Biopharmaceutical Marketing (MS)",
+                "id": "10298"
+            },
+            {
+                "name": "Biostatistics (MS)",
+                "id": "7895"
+            },
+            {
+                "name": "Building Science (MBS)",
+                "id": "7240"
+            },
+            {
+                "name": "Business Administration (MS)",
+                "id": "7305"
+            },
+            {
+                "name": "Business Analytics (MS)",
+                "id": "7307"
+            },
+            {
+                "name": "Business for Veterans (MBV)",
+                "id": "7314"
+            },
+            {
+                "name": "Business Research (MS)",
+                "id": "7306"
+            },
+            {
+                "name": "Business Taxation (MBT)",
+                "id": "7329"
+            },
+            {
+                "name": "Business Taxation for Working Professionals (MBT)",
+                "id": "7330"
+            },
+            {
+                "name": "Chemical Engineering (MS)",
+                "id": "7739"
+            },
+            {
+                "name": "Choral Music (MM)",
+                "id": "7926"
+            },
+            {
+                "name": "Cinema and Media Studies (MA)",
+                "id": "8125"
+            },
+            {
+                "name": "Cinematic Arts (Media Arts, Games and Health) (MA)",
+                "id": "7340"
+            },
+            {
+                "name": "Cinematic Arts, Film and Television Production (MFA)",
+                "id": "7337"
+            },
+            {
+                "name": "Civil Engineering (MS)",
+                "id": "7810"
+            },
+            {
+                "name": "Civil Engineering (Transportation Systems) (MS)",
+                "id": "7751"
+            },
+            {
+                "name": "Civil Engineering (Water and Waste Management) (MS)",
+                "id": "7811"
+            },
+            {
+                "name": "Classics (MA)",
+                "id": "7419"
+            },
+            {
+                "name": "Clinical and Experimental Therapeutics (MS)",
+                "id": "10301"
+            },
+            {
+                "name": "Clinical, Biomedical and Translational Investigations (MS)",
+                "id": "7870"
+            },
+            {
+                "name": "Communication (MA)",
+                "id": "7635"
+            },
+            {
+                "name": "Communication Data Science (MS)",
+                "id": "10323"
+            },
+            {
+                "name": "Communication Management (MCG)",
+                "id": "7626"
+            },
+            {
+                "name": "Community Music (MM)",
+                "id": "8190"
+            },
+            {
+                "name": "Community Oral Health (MS)",
+                "id": "10353"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (Comparative Literature) (MA)",
+                "id": "7425"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (Comparative Media and Culture) (MA)",
+                "id": "7423"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (French and Francophone Studies) (MA)",
+                "id": "7427"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (Spanish and Latin American Studies) (MA)",
+                "id": "7429"
+            },
+            {
+                "name": "Composition (MM)",
+                "id": "7927"
+            },
+            {
+                "name": "Computational Molecular Biology (MS)",
+                "id": "7535"
+            },
+            {
+                "name": "Computer Engineering (MS)",
+                "id": "7759"
+            },
+            {
+                "name": "Computer Science (Computer Networks) (MS)",
+                "id": "7768"
+            },
+            {
+                "name": "Computer Science (Computer Security) (MS)",
+                "id": "7769"
+            },
+            {
+                "name": "Computer Science (Data Science) (MS)",
+                "id": "7766"
+            },
+            {
+                "name": "Computer Science (Game Development) (MS)",
+                "id": "7767"
+            },
+            {
+                "name": "Computer Science (High Performance Computing and Simulations) (MS)",
+                "id": "7770"
+            },
+            {
+                "name": "Computer Science (Intelligent Robotics) (MS)",
+                "id": "7773"
+            },
+            {
+                "name": "Computer Science (MS)",
+                "id": "7765"
+            },
+            {
+                "name": "Computer Science (Multimedia and Creative Technologies) (MS)",
+                "id": "7771"
+            },
+            {
+                "name": "Computer Science (Scientists and Engineers) (MS)",
+                "id": "7774"
+            },
+            {
+                "name": "Computer Science (Software Engineering) (MS)",
+                "id": "7772"
+            },
+            {
+                "name": "Conducting (MM)",
+                "id": "7928"
+            },
+            {
+                "name": "Construction Management (MCM)",
+                "id": "7753"
+            },
+            {
+                "name": "Contemporary Teaching Practice (MM)",
+                "id": "8188"
+            },
+            {
+                "name": "Craniofacial Biology (MS)",
+                "id": "8045"
+            },
+            {
+                "name": "Curatorial Practices and the Public Sphere (MA)",
+                "id": "7258"
+            },
+            {
+                "name": "Cyber Security Engineering (MS)",
+                "id": "7798"
+            },
+            {
+                "name": "Data Informatics (MS)",
+                "id": "7799"
+            },
+            {
+                "name": "Design (MFA)",
+                "id": "8184"
+            },
+            {
+                "name": "Digital Social Media (MS)",
+                "id": "7627"
+            },
+            {
+                "name": "Dispute Resolution (MDR)",
+                "id": "8133"
+            },
+            {
+                "name": "Dollinger Master in Real Estate Development (MRED)",
+                "id": "7996"
+            },
+            {
+                "name": "Early Music Performance Emphasis (MA)",
+                "id": "7940"
+            },
+            {
+                "name": "East Asian Area Studies (MA)",
+                "id": "7441"
+            },
+            {
+                "name": "East Asian Languages and Cultures (MA)",
+                "id": "7447"
+            },
+            {
+                "name": "Economic Developmental Programming (MA)",
+                "id": "7455"
+            },
+            {
+                "name": "Economics (MA)",
+                "id": "7454"
+            },
+            {
+                "name": "Educational Counseling (MEd)",
+                "id": "7695"
+            },
+            {
+                "name": "Electrical Engineering (Computer Architecture) (MS)",
+                "id": "10335"
+            },
+            {
+                "name": "Electrical Engineering (Computer Networks) (MS)",
+                "id": "7780"
+            },
+            {
+                "name": "Electrical Engineering (Electric Power) (MS)",
+                "id": "7812"
+            },
+            {
+                "name": "Electrical Engineering (MS)",
+                "id": "7779"
+            },
+            {
+                "name": "Electrical Engineering (Multimedia and Creative Technologies) (MS)",
+                "id": "7781"
+            },
+            {
+                "name": "Electrical Engineering (VLSI Design) (MS)",
+                "id": "7782"
+            },
+            {
+                "name": "Electrical Engineering (Wireless Health Technology) (MS)",
+                "id": "7783"
+            },
+            {
+                "name": "Electrical Engineering (Wireless Networks) (MS)",
+                "id": "7784"
+            },
+            {
+                "name": "Electrical Engineering/Engineering Management (MS)",
+                "id": "7786"
+            },
+            {
+                "name": "Engineering Management (MS)",
+                "id": "7792"
+            },
+            {
+                "name": "English (MA)",
+                "id": "7467"
+            },
+            {
+                "name": "Enrollment Management and Policy (MEd)",
+                "id": "10306"
+            },
+            {
+                "name": "Entrepreneurship and Innovation (MS)",
+                "id": "7309"
+            },
+            {
+                "name": "Environmental Engineering (MS)",
+                "id": "7752"
+            },
+            {
+                "name": "Environmental Risk Analysis (MS)",
+                "id": "7482"
+            },
+            {
+                "name": "Environmental Studies (MA)",
+                "id": "7481"
+            },
+            {
+                "name": "Experimental and Molecular Pathology (MS)",
+                "id": "7882"
+            },
+            {
+                "name": "Finance (MS)",
+                "id": "7310"
+            },
+            {
+                "name": "Financial Engineering (MS)",
+                "id": "7785"
+            },
+            {
+                "name": "Fine Arts (MFA)",
+                "id": "7257"
+            },
+            {
+                "name": "Geographic Information Science and Technology (MS)",
+                "id": "7615"
+            },
+            {
+                "name": "Geological Sciences (MS)",
+                "id": "7436"
+            },
+            {
+                "name": "Geriatric Dentistry (MS)",
+                "id": "7670"
+            },
+            {
+                "name": "Gerontology (MA)",
+                "id": "7826"
+            },
+            {
+                "name": "Gerontology (MS)",
+                "id": "7823"
+            },
+            {
+                "name": "Global Communication (MA)",
+                "id": "7634"
+            },
+            {
+                "name": "Global Medicine (MS)",
+                "id": "7872"
+            },
+            {
+                "name": "Global Supply Chain Management (On‑Campus/Residential) (MS)",
+                "id": "7311"
+            },
+            {
+                "name": "Global Supply Chain Management for Executives (MS) (Online)",
+                "id": "8096"
+            },
+            {
+                "name": "Green Technologies (MS)",
+                "id": "7788"
+            },
+            {
+                "name": "Health Administration (Executive MHA)",
+                "id": "7988"
+            },
+            {
+                "name": "Health Administration (MHA)",
+                "id": "7987"
+            },
+            {
+                "name": "Healthcare Data Science (MS)",
+                "id": "10343"
+            },
+            {
+                "name": "Healthcare Decision Analysis (MS)",
+                "id": "7958"
+            },
+            {
+                "name": "Heritage Conservation (MHC)",
+                "id": "7239"
+            },
+            {
+                "name": "History (MA)",
+                "id": "7499"
+            },
+            {
+                "name": "Human Resource Management (MS)",
+                "id": "8147"
+            },
+            {
+                "name": "Human Security and Geospatial Intelligence (MS)",
+                "id": "10339"
+            },
+            {
+                "name": "Industrial and Systems Engineering (MS)",
+                "id": "7793"
+            },
+            {
+                "name": "Integrated Design, Business and Technology (MS)",
+                "id": "8063"
+            },
+            {
+                "name": "Integrative Anatomical Sciences (MS)",
+                "id": "10299"
+            },
+            {
+                "name": "Interactive Media (Games and Health) (MFA)",
+                "id": "7339"
+            },
+            {
+                "name": "Interactive Media (MFA)",
+                "id": "7341"
+            },
+            {
+                "name": "International Public Policy and Management (IPPM)",
+                "id": "7995"
+            },
+            {
+                "name": "International Relations (MA)",
+                "id": "7510"
+            },
+            {
+                "name": "Jazz Studies (MM)",
+                "id": "7929"
+            },
+            {
+                "name": "Journalism (MS)",
+                "id": "7644"
+            },
+            {
+                "name": "Landscape Architecture (MLArch)",
+                "id": "7238"
+            },
+            {
+                "name": "Leadership (Executive ML)",
+                "id": "7989"
+            },
+            {
+                "name": "Learning Design and Technology (MEd)",
+                "id": "7696"
+            },
+            {
+                "name": "Library and Information Science (MMLIS)",
+                "id": "7315"
+            },
+            {
+                "name": "Linguistics (MA)",
+                "id": "7521"
+            },
+            {
+                "name": "Literary Editing and Publishing (MA)",
+                "id": "8131"
+            },
+            {
+                "name": "Long Term Care Administration (MLTCA)",
+                "id": "7829"
+            },
+            {
+                "name": "Management of Drug Development (MS)",
+                "id": "7960"
+            },
+            {
+                "name": "Management Studies (MMS)",
+                "id": "7304"
+            },
+            {
+                "name": "Manufacturing Engineering (MS)",
+                "id": "7808"
+            },
+            {
+                "name": "Marine and Environmental Biology (MS)",
+                "id": "7399"
+            },
+            {
+                "name": "Marketing (MS)",
+                "id": "7312"
+            },
+            {
+                "name": "Marriage and Family Therapy (MMFT)",
+                "id": "7700"
+            },
+            {
+                "name": "Master of Global Public Policy",
+                "id": "8058"
+            },
+            {
+                "name": "Master of Science in Nursing, Family Nurse Practitioner (MSN-FNP)",
+                "id": "10333"
+            },
+            {
+                "name": "Master of Studies in Law (MSL) Program",
+                "id": "8115"
+            },
+            {
+                "name": "Materials Science (MS)",
+                "id": "7741"
+            },
+            {
+                "name": "Mathematical Finance (MS)",
+                "id": "7456"
+            },
+            {
+                "name": "Mathematics (MA)",
+                "id": "7536"
+            },
+            {
+                "name": "Mechanical Engineering (Energy Conversion) (MS)",
+                "id": "7813"
+            },
+            {
+                "name": "Mechanical Engineering (MS)",
+                "id": "7716"
+            },
+            {
+                "name": "Mechanical Engineering (Nuclear Power) (MS)",
+                "id": "7717"
+            },
+            {
+                "name": "Mechanical Engineering/Engineering Management (MS)",
+                "id": "7719"
+            },
+            {
+                "name": "Medical Biophysics (MS)",
+                "id": "8138"
+            },
+            {
+                "name": "Medical Device and Diagnostic Engineering (MS)",
+                "id": "7730"
+            },
+            {
+                "name": "Medical Management (MMM)",
+                "id": "7308"
+            },
+            {
+                "name": "Medical Physiology (MS)",
+                "id": "7883"
+            },
+            {
+                "name": "Medical Product Quality (MS)",
+                "id": "7961"
+            },
+            {
+                "name": "Molecular and Computational Biology (MS)",
+                "id": "7403"
+            },
+            {
+                "name": "Molecular Epidemiology (MS)",
+                "id": "7896"
+            },
+            {
+                "name": "Molecular Microbiology and Immunology (MS)",
+                "id": "7880"
+            },
+            {
+                "name": "Molecular Pharmacology and Toxicology (MS)",
+                "id": "7956"
+            },
+            {
+                "name": "Multiple Subject (MAT)",
+                "id": "8176"
+            },
+            {
+                "name": "Music History and Literature Emphasis (MA)",
+                "id": "7939"
+            },
+            {
+                "name": "Music Industry (MS)",
+                "id": "8191"
+            },
+            {
+                "name": "Neuroimaging and Informatics (MS)",
+                "id": "7881"
+            },
+            {
+                "name": "Neuroscience (MS)",
+                "id": "7228"
+            },
+            {
+                "name": "Nonprofit Leadership and Management (MNLM)",
+                "id": "7990"
+            },
+            {
+                "name": "Nurse Anesthesia (MS)",
+                "id": "7877"
+            },
+            {
+                "name": "Nursing (MSN)",
+                "id": "8083"
+            },
+            {
+                "name": "Nutrition, Healthspan and Longevity (MS)",
+                "id": "7830"
+            },
+            {
+                "name": "Occupational Therapy (MA)",
+                "id": "7843"
+            },
+            {
+                "name": "Ocean Sciences (MS)",
+                "id": "7547"
+            },
+            {
+                "name": "Online MA in Occupational Science and Occupational Therapy",
+                "id": "8097"
+            },
+            {
+                "name": "Operations Research Engineering (MS)",
+                "id": "7794"
+            },
+            {
+                "name": "Pain Medicine (MPM)",
+                "id": "8169"
+            },
+            {
+                "name": "Performance (Classical Guitar) (MM)",
+                "id": "7931"
+            },
+            {
+                "name": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion) (MM)",
+                "id": "7937"
+            },
+            {
+                "name": "Performance (Keyboard Collaborative Arts) (MM)",
+                "id": "7930"
+            },
+            {
+                "name": "Performance (Organ) (MM)",
+                "id": "7933"
+            },
+            {
+                "name": "Performance (Piano) (MM)",
+                "id": "7934"
+            },
+            {
+                "name": "Performance (Studio Guitar) (MM)",
+                "id": "7932"
+            },
+            {
+                "name": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp) (MM)",
+                "id": "7935"
+            },
+            {
+                "name": "Performance (Vocal Arts) (MM)",
+                "id": "8113"
+            },
+            {
+                "name": "Petroleum Engineering (Geoscience Technologies) (MS)",
+                "id": "7745"
+            },
+            {
+                "name": "Petroleum Engineering (MS)",
+                "id": "7744"
+            },
+            {
+                "name": "Petroleum Engineering (Smart Oilfield Technologies) (MS)",
+                "id": "7746"
+            },
+            {
+                "name": "Pharmaceutical Economics and Policy (MS)",
+                "id": "7957"
+            },
+            {
+                "name": "Pharmaceutical Sciences (MS)",
+                "id": "7955"
+            },
+            {
+                "name": "Philosophy (MA)",
+                "id": "7555"
+            },
+            {
+                "name": "Philosophy and Law (MA)",
+                "id": "7556"
+            },
+            {
+                "name": "Physician Assistant Practice (MPAP)",
+                "id": "7879"
+            },
+            {
+                "name": "Physics (MA)",
+                "id": "7569"
+            },
+            {
+                "name": "Physics (MS)",
+                "id": "7568"
+            },
+            {
+                "name": "Planning (MPl)",
+                "id": "7991"
+            },
+            {
+                "name": "Planning and Development Studies (MPDS)",
+                "id": "7992"
+            },
+            {
+                "name": "Political Science and International Relations (MA)",
+                "id": "7511"
+            },
+            {
+                "name": "Postsecondary Administration and Student Affairs (MEd)",
+                "id": "7697"
+            },
+            {
+                "name": "Producing for Film, Television, and New Media (MFA)",
+                "id": "7346"
+            },
+            {
+                "name": "Product Development Engineering (MS)",
+                "id": "7809"
+            },
+            {
+                "name": "Project Management (MS)",
+                "id": "10300"
+            },
+            {
+                "name": "Psychology (MA)",
+                "id": "7587"
+            },
+            {
+                "name": "Public Administration (MPA)",
+                "id": "7993"
+            },
+            {
+                "name": "Public Diplomacy (MPD)",
+                "id": "7636"
+            },
+            {
+                "name": "Public Diplomacy (Practitioner and Mid-Career Professional) (MPD)",
+                "id": "7637"
+            },
+            {
+                "name": "Public Health (MPH)",
+                "id": "7897"
+            },
+            {
+                "name": "Public Health (MPH) (Online)",
+                "id": "10330"
+            },
+            {
+                "name": "Public Policy (MPP)",
+                "id": "7994"
+            },
+            {
+                "name": "Public Policy Data Science (MS)",
+                "id": "10324"
+            },
+            {
+                "name": "Quantitative Economics (MS)",
+                "id": "8165"
+            },
+            {
+                "name": "Regulatory Management (MS)",
+                "id": "10328"
+            },
+            {
+                "name": "Regulatory Science (MS)",
+                "id": "7959"
+            },
+            {
+                "name": "Sacred Music (MM)",
+                "id": "7938"
+            },
+            {
+                "name": "School Counseling (MEd)",
+                "id": "7698"
+            },
+            {
+                "name": "School Leadership (MEd)",
+                "id": "7699"
+            },
+            {
+                "name": "Screen Scoring (MM)",
+                "id": "8116"
+            },
+            {
+                "name": "Single Subject (MAT)",
+                "id": "8177"
+            },
+            {
+                "name": "Social Entrepreneurship (MS)",
+                "id": "7313"
+            },
+            {
+                "name": "Social Work (MSW)",
+                "id": "8025"
+            },
+            {
+                "name": "Spatial Data Science (MS)",
+                "id": "10326"
+            },
+            {
+                "name": "Spatial Economics and Data Analysis (MS)",
+                "id": "10340"
+            },
+            {
+                "name": "Specialized Journalism (MA)",
+                "id": "7646"
+            },
+            {
+                "name": "Specialized Journalism (The Arts) (MA)",
+                "id": "7647"
+            },
+            {
+                "name": "Statistics (MS)",
+                "id": "7534"
+            },
+            {
+                "name": "Stem Cell Biology and Regenerative Medicine (MS)",
+                "id": "7903"
+            },
+            {
+                "name": "Strategic Public Relations (MA)",
+                "id": "7648"
+            },
+            {
+                "name": "Systems Architecting and Engineering (MS)",
+                "id": "7814"
+            },
+            {
+                "name": "Teaching and Learning (MM)",
+                "id": "8121"
+            },
+            {
+                "name": "Teaching English to Speakers of Other Languages (World Masters in Language Teaching) (MAT)",
+                "id": "8187"
+            },
+            {
+                "name": "Teaching, Teaching English to Speakers of Other Languages (MAT)",
+                "id": "7693"
+            },
+            {
+                "name": "Theatre (MFA)",
+                "id": "7687"
+            },
+            {
+                "name": "Translational Biomedical Informatics (MS)",
+                "id": "8174"
+            },
+            {
+                "name": "Translational Biotechnology (MS)",
+                "id": "8175"
+            },
+            {
+                "name": "Transportation Systems Management (MS)",
+                "id": "10341"
+            },
+            {
+                "name": "Visual Anthropology (MVA)",
+                "id": "7381"
+            },
+            {
+                "name": "Writing for Screen and Television (MFA)",
+                "id": "7348"
+            }
+        ]
+    },
+    {
+        "category": "University Certificate",
+        "programs": [
+            {
+                "name": "Academic Medicine Certificate",
+                "id": "8081"
+            },
+            {
+                "name": "Advanced Endodontics Certificate",
+                "id": "7655"
+            },
+            {
+                "name": "Advanced Operative and Adhesive Dentistry Certificate",
+                "id": "7656"
+            },
+            {
+                "name": "Advanced Operative and Adhesive Dentistry Certificate/MS, Craniofacial Biology",
+                "id": "7657"
+            },
+            {
+                "name": "Advanced Oral and Maxillofacial Surgery",
+                "id": "7658"
+            },
+            {
+                "name": "Advanced Oral Medicine Certificate",
+                "id": "7660"
+            },
+            {
+                "name": "Advanced Orofacial Pain Certificate",
+                "id": "7661"
+            },
+            {
+                "name": "Advanced Pediatric Dentistry Certificate",
+                "id": "7664"
+            },
+            {
+                "name": "Advanced Periodontology Certificate",
+                "id": "7665"
+            },
+            {
+                "name": "Advanced Prosthodontics Certificate",
+                "id": "7666"
+            },
+            {
+                "name": "Arts Leadership Graduate Certificate",
+                "id": "7941"
+            },
+            {
+                "name": "Big Data Fundamentals Certificate",
+                "id": "8135"
+            },
+            {
+                "name": "Business of Entertainment Graduate Certificate",
+                "id": "7349"
+            },
+            {
+                "name": "Cinematic Arts Archiving and Preservation Graduate Certificate",
+                "id": "8157"
+            },
+            {
+                "name": "Clinical, Biomedical and Translational Investigations Certificate",
+                "id": "7871"
+            },
+            {
+                "name": "Craniofacial Biology Certificate",
+                "id": "7668"
+            },
+            {
+                "name": "East Asian Area Studies Graduate Certificate",
+                "id": "7443"
+            },
+            {
+                "name": "Gender Studies Graduate Certificate",
+                "id": "7490"
+            },
+            {
+                "name": "General Practice Residency",
+                "id": "7667"
+            },
+            {
+                "name": "Geographic Information Science and Technology Graduate Certificate",
+                "id": "7616"
+            },
+            {
+                "name": "Geospatial Intelligence Graduate Certificate",
+                "id": "7617"
+            },
+            {
+                "name": "Geospatial Leadership Graduate Certificate",
+                "id": "7618"
+            },
+            {
+                "name": "Gerontology Graduate Level Certificate",
+                "id": "7827"
+            },
+            {
+                "name": "Gerontology Online Graduate Level Certificate",
+                "id": "7828"
+            },
+            {
+                "name": "Global Medicine Graduate Certificate",
+                "id": "7875"
+            },
+            {
+                "name": "Health Communication Management Graduate Certificate",
+                "id": "7628"
+            },
+            {
+                "name": "Health Systems Operations Graduate Certificate",
+                "id": "8044"
+            },
+            {
+                "name": "Health, Technology and Engineering Graduate Certificate",
+                "id": "7732"
+            },
+            {
+                "name": "Health, Technology and Engineering Graduate Certificate",
+                "id": "8043"
+            },
+            {
+                "name": "Integrated MD Degree/Oral and Maxillofacial Surgery Certificate Program",
+                "id": "7659"
+            },
+            {
+                "name": "International and Intercultural Communication Management Graduate Certificate",
+                "id": "7629"
+            },
+            {
+                "name": "Lifestyle Redesign® Graduate Certificate (online)",
+                "id": "8084"
+            },
+            {
+                "name": "Marketing Communication Management Graduate Certificate",
+                "id": "7630"
+            },
+            {
+                "name": "Media and Entertainment Management Graduate Certificate",
+                "id": "7631"
+            },
+            {
+                "name": "Network Centric Systems Graduate Certificate",
+                "id": "7816"
+            },
+            {
+                "name": "New Communication Technologies Graduate Certificate",
+                "id": "7632"
+            },
+            {
+                "name": "Pain Medicine Certificate",
+                "id": "8162"
+            },
+            {
+                "name": "Performance Graduate Certificate",
+                "id": "7942"
+            },
+            {
+                "name": "Smart Oilfield Technologies Certificate",
+                "id": "7747"
+            },
+            {
+                "name": "Software Architecture Graduate Certificate",
+                "id": "7776"
+            },
+            {
+                "name": "Spatial Analytics Graduate Certificate",
+                "id": "7619"
+            },
+            {
+                "name": "Stem Cell Biology and Regenerative Medicine Certificate",
+                "id": "8119"
+            },
+            {
+                "name": "Strategic Corporate and Organizational Communication Management Graduate Certificate",
+                "id": "7633"
+            },
+            {
+                "name": "Systems Architecting and Engineering Graduate Certificate",
+                "id": "7815"
+            },
+            {
+                "name": "Transportation Systems Graduate Certificate",
+                "id": "7756"
+            },
+            {
+                "name": "Visual Anthropology Certificate",
+                "id": "7380"
+            },
+            {
+                "name": "Writing for Screen and Television Certificate",
+                "id": "8069"
+            }
+        ]
+    },
+    {
+        "category": "Graduate Certificate",
+        "programs": [
+            {
+                "name": "Advanced Orthodontics Certificate",
+                "id": "7663"
+            },
+            {
+                "name": "Alternative Dispute Resolution Certificate",
+                "id": "7857"
+            },
+            {
+                "name": "Architecture Certificate",
+                "id": "7236"
+            },
+            {
+                "name": "Astronautical Engineering Certificate",
+                "id": "7723"
+            },
+            {
+                "name": "Building Science Certificate",
+                "id": "7234"
+            },
+            {
+                "name": "Business Analytics Graduate Certificate",
+                "id": "7316"
+            },
+            {
+                "name": "Business Fundamentals Graduate Certificate",
+                "id": "8154"
+            },
+            {
+                "name": "Business Law Certificate (Online)",
+                "id": "7860"
+            },
+            {
+                "name": "Business Law Certificate (Residential)",
+                "id": "7858"
+            },
+            {
+                "name": "Certificate in U.S. Legal Studies",
+                "id": "8075"
+            },
+            {
+                "name": "City/County Management Certificate",
+                "id": "7997"
+            },
+            {
+                "name": "Clinical Research Design and Management Certificate",
+                "id": "7976"
+            },
+            {
+                "name": "Community Oral Health Certificate",
+                "id": "10354"
+            },
+            {
+                "name": "Compliance Certificate",
+                "id": "8158"
+            },
+            {
+                "name": "Digital Media and Culture Graduate Certificate",
+                "id": "7345"
+            },
+            {
+                "name": "Entertainment Law (Residential) Certificate",
+                "id": "7859"
+            },
+            {
+                "name": "Entertainment Law and Industry Certificate",
+                "id": "8159"
+            },
+            {
+                "name": "Financial Analysis and Valuation Graduate Certificate",
+                "id": "7318"
+            },
+            {
+                "name": "Financial Compliance Certificate",
+                "id": "10336"
+            },
+            {
+                "name": "Food Safety Certificate",
+                "id": "7977"
+            },
+            {
+                "name": "Geriatric Dentistry Graduate Certificate",
+                "id": "10319"
+            },
+            {
+                "name": "Gifted Education Certificate",
+                "id": "7702"
+            },
+            {
+                "name": "Health Care Compliance Certificate",
+                "id": "10337"
+            },
+            {
+                "name": "Health Management and Policy Programs Certificate",
+                "id": "8002"
+            },
+            {
+                "name": "Healthcare Decision Analysis Certificate",
+                "id": "8127"
+            },
+            {
+                "name": "Heritage Conservation Certificate",
+                "id": "7235"
+            },
+            {
+                "name": "History of Collecting and Display Certificate",
+                "id": "7387"
+            },
+            {
+                "name": "Homeland Security and Public Policy Certificate",
+                "id": "8005"
+            },
+            {
+                "name": "Human Resources Law and Compliance Certificate",
+                "id": "10338"
+            },
+            {
+                "name": "International Policy and Planning Certificate",
+                "id": "8008"
+            },
+            {
+                "name": "Journalism Certificate",
+                "id": "7645"
+            },
+            {
+                "name": "Landscape Architecture Certificate",
+                "id": "7233"
+            },
+            {
+                "name": "Library and Information Management Graduate Certificate",
+                "id": "7319"
+            },
+            {
+                "name": "Management Studies Graduate Certificate",
+                "id": "7320"
+            },
+            {
+                "name": "Marketing Graduate Certificate",
+                "id": "7321"
+            },
+            {
+                "name": "Medical Product Quality Graduate Certificate",
+                "id": "8086"
+            },
+            {
+                "name": "Nonprofit Management and Policy Certificate",
+                "id": "7999"
+            },
+            {
+                "name": "Optimization and Supply Chain Management Graduate Certificate",
+                "id": "7322"
+            },
+            {
+                "name": "Oral Pathology and Radiology Certificate",
+                "id": "8160"
+            },
+            {
+                "name": "Orofacial Pain Certificate",
+                "id": "8161"
+            },
+            {
+                "name": "Patient and Product Safety Certificate",
+                "id": "7978"
+            },
+            {
+                "name": "Political Management Certificate",
+                "id": "8000"
+            },
+            {
+                "name": "Preclinical Drug Development Certificate",
+                "id": "7979"
+            },
+            {
+                "name": "Public Financial Management Certificate",
+                "id": "8001"
+            },
+            {
+                "name": "Public Interest Certificate",
+                "id": "8085"
+            },
+            {
+                "name": "Public Management Certificate",
+                "id": "8003"
+            },
+            {
+                "name": "Public Policy Advocacy Graduate Certificate",
+                "id": "8065"
+            },
+            {
+                "name": "Public Policy Certificate",
+                "id": "8004"
+            },
+            {
+                "name": "Pupil Personnel Services Certificate",
+                "id": "10325"
+            },
+            {
+                "name": "Real Estate Development Certificate",
+                "id": "8007"
+            },
+            {
+                "name": "Regulatory and Clinical Affairs Certificate",
+                "id": "7980"
+            },
+            {
+                "name": "Religious Studies Certificate",
+                "id": "8180"
+            },
+            {
+                "name": "Social Innovation Certificate",
+                "id": "8150"
+            },
+            {
+                "name": "Social Justice Certificate",
+                "id": "8117"
+            },
+            {
+                "name": "Special Education Certificate",
+                "id": "7703"
+            },
+            {
+                "name": "STEM Education Certificate",
+                "id": "7704"
+            },
+            {
+                "name": "Strategy and Management Consulting Graduate Certificate",
+                "id": "8087"
+            },
+            {
+                "name": "Sustainability and Business Graduate Certificate",
+                "id": "7323"
+            },
+            {
+                "name": "Sustainable Design Graduate Certificate",
+                "id": "7237"
+            },
+            {
+                "name": "Sustainable Policy and Planning Certificate",
+                "id": "8006"
+            },
+            {
+                "name": "Technology and Entrepreneurship Law Certificate",
+                "id": "8078"
+            },
+            {
+                "name": "Technology Commercialization Graduate Certificate",
+                "id": "7324"
+            },
+            {
+                "name": "Translation Studies Certificate",
+                "id": "10351"
+            },
+            {
+                "name": "Translational Biotechnology Certificate",
+                "id": "10342"
+            },
+            {
+                "name": "Transnational Law and Business Certificate",
+                "id": "8195"
+            },
+            {
+                "name": "Transportation Systems Certificate",
+                "id": "7998"
+            },
+            {
+                "name": "Unconventional Resources in Petroleum Engineering",
+                "id": "8185"
+            },
+            {
+                "name": "Visual Studies Graduate Certificate",
+                "id": "7388"
+            }
+        ]
+    },
+    {
+        "category": "Dual Degree",
+        "programs": [
+            {
+                "name": "Advanced Periodontology Certificate/Master of Science, Craniofacial Biology",
+                "id": "8031"
+            },
+            {
+                "name": "Doctor of Education/Master of Business Administration (EdD/MBA)",
+                "id": "7299"
+            },
+            {
+                "name": "Doctor of Medicine/Master of Business Administration  (MD/MBA)",
+                "id": "7863"
+            },
+            {
+                "name": "Doctor of Medicine/Master of Public Health (MD/MPH)",
+                "id": "7864"
+            },
+            {
+                "name": "Doctor of Medicine/Master of Science, Global Medicine",
+                "id": "7873"
+            },
+            {
+                "name": "Doctor of Pharmacy/Doctor of Philosophy (PharmD/PhD)",
+                "id": "7975"
+            },
+            {
+                "name": "Doctor of Pharmacy/Juris Doctor (PharmD/JD)",
+                "id": "7968"
+            },
+            {
+                "name": "Doctor of Pharmacy/Master of Business Administration (PharmD/MBA)",
+                "id": "7969"
+            },
+            {
+                "name": "Doctor of Pharmacy/Master of Public Health (PharmD/MPH)",
+                "id": "7973"
+            },
+            {
+                "name": "Doctor of Pharmacy/Master of Science, Gerontology",
+                "id": "7970"
+            },
+            {
+                "name": "Doctor of Pharmacy/Master of Science, Global Medicine",
+                "id": "7971"
+            },
+            {
+                "name": "Doctor of Pharmacy/Master of Science, Regulatory Science",
+                "id": "7974"
+            },
+            {
+                "name": "Doctor of Philosophy in Political Science and International Relations/Juris Doctor (JD/PhD)",
+                "id": "10331"
+            },
+            {
+                "name": "Doctor of Philosophy in Political Science and International Relations/Juris Doctor (PhD/JD)",
+                "id": "7577"
+            },
+            {
+                "name": "Doctor of Philosophy in Psychology (Clinical) and Master of Public Health (Health Promotion) (PhD/MPH)",
+                "id": "7590"
+            },
+            {
+                "name": "Doctor of Physical Therapy/Master of Public Health (DPT/MPH)",
+                "id": "7840"
+            },
+            {
+                "name": "Healthcare Decision Analysis (PharmD/MS)",
+                "id": "7972"
+            },
+            {
+                "name": "Juris Doctor/Doctor of Pharmacy (JD/PharmD)",
+                "id": "7849"
+            },
+            {
+                "name": "Juris Doctor/Doctor of Philosophy in Political Science and International Relations (JD/PhD)",
+                "id": "7856"
+            },
+            {
+                "name": "Juris Doctor/Master of Arts in Economics (JD/MA)",
+                "id": "7847"
+            },
+            {
+                "name": "Juris Doctor/Master of Arts, International Relations (JD/MA)",
+                "id": "7852"
+            },
+            {
+                "name": "Juris Doctor/Master of Arts, Philosophy (JD/MA)",
+                "id": "8040"
+            },
+            {
+                "name": "Juris Doctor/Master of Arts, Political Science (JD/MA)",
+                "id": "7855"
+            },
+            {
+                "name": "Juris Doctor/Master of Business Taxation (JD/MBT)",
+                "id": "7331"
+            },
+            {
+                "name": "Juris Doctor/Master of Communication Management (JD/MCG)",
+                "id": "7853"
+            },
+            {
+                "name": "Juris Doctor/Master of Public Administration (JD/MPA)",
+                "id": "8019"
+            },
+            {
+                "name": "Juris Doctor/Master of Public Policy (JD/MPP)",
+                "id": "8016"
+            },
+            {
+                "name": "Juris Doctor/Master of Real Estate Development (JD/MRED)",
+                "id": "8052"
+            },
+            {
+                "name": "Juris Doctor/Master of Science in Gerontology (JD/MS)",
+                "id": "7848"
+            },
+            {
+                "name": "Juris Doctor/Master of Social Work (JD/MSW)",
+                "id": "7851"
+            },
+            {
+                "name": "Master of Advanced Architectural Studies/Master of Planning (MAAS/MPl)",
+                "id": "7241"
+            },
+            {
+                "name": "Master of Arts, East Asian Area Studies/Master of Business Administration (MA/MBA)",
+                "id": "7442"
+            },
+            {
+                "name": "Master of Arts, Economics/Juris Doctor (MA/JD)",
+                "id": "7457"
+            },
+            {
+                "name": "Master of Arts, Economics/Master of Planning (MA/MPl)",
+                "id": "7458"
+            },
+            {
+                "name": "Master of Arts, International Relations/Juris Doctor (MA/JD)",
+                "id": "7512"
+            },
+            {
+                "name": "Master of Arts, Philosophy/Juris Doctor (MA/JD)",
+                "id": "7557"
+            },
+            {
+                "name": "Master of Communication Management/Juris Doctor (MCG/JD)",
+                "id": "7639"
+            },
+            {
+                "name": "Master of Communication Management/Master of Arts, Jewish Nonprofit Management (MCG/MA)",
+                "id": "7640"
+            },
+            {
+                "name": "Master of Health Administration/Master of Science in Gerontology (MHA/MS)",
+                "id": "8018"
+            },
+            {
+                "name": "Master of Heritage Conservation/Master of Planning (MHC/MPl)",
+                "id": "7242"
+            },
+            {
+                "name": "Master of Landscape Architecture/Master of Planning (MLArch/MPl)",
+                "id": "7243"
+            },
+            {
+                "name": "Master of Planning/Master of Arts, Curatorial Practices and the Public Sphere (MPl/MA)",
+                "id": "8132"
+            },
+            {
+                "name": "Master of Planning/Master of Arts, Economics (MPl/MA)",
+                "id": "8009"
+            },
+            {
+                "name": "Master of Planning/Master of Public Administration (MPl/MPA)",
+                "id": "8012"
+            },
+            {
+                "name": "Master of Planning/Master of Public Health (MPl/MPH)",
+                "id": "7898"
+            },
+            {
+                "name": "Master of Planning/Master of Real Estate Development (MPl/MRED)",
+                "id": "8010"
+            },
+            {
+                "name": "Master of Planning/Master of Science, Gerontology (MPl/MS)",
+                "id": "8011"
+            },
+            {
+                "name": "Master of Planning/Master of Social Work (MPl/MSW)",
+                "id": "8015"
+            },
+            {
+                "name": "Master of Public Administration with Seoul National University",
+                "id": "8055"
+            },
+            {
+                "name": "Master of Public Administration/Master of Arts, Jewish Nonprofit Management (MPA/MA)",
+                "id": "8021"
+            },
+            {
+                "name": "Master of Public Administration/Master of Science in Gerontology (MPA/MS)",
+                "id": "8017"
+            },
+            {
+                "name": "Master of Public Administration/Master of Social Work (MPA/MSW)",
+                "id": "8020"
+            },
+            {
+                "name": "Master of Public Health/Doctor of Pharmacy (MPH/PharmD)",
+                "id": "8046"
+            },
+            {
+                "name": "Master of Public Health/Master of Planning (MPH/MPl)",
+                "id": "8013"
+            },
+            {
+                "name": "Master of Public Health/Master of Science, Social Entrepreneurship (MPH/MS)",
+                "id": "8136"
+            },
+            {
+                "name": "Master of Public Health/Master of Social Work (MPH/MSW)",
+                "id": "7899"
+            },
+            {
+                "name": "Master of Public Policy/Juris Doctor (MPP/JD)",
+                "id": "7850"
+            },
+            {
+                "name": "Master of Public Policy/Master of Planning (MPP/MPl)",
+                "id": "8014"
+            },
+            {
+                "name": "Master of Real Estate Development/Juris Doctor (MRED/JD)",
+                "id": "7854"
+            },
+            {
+                "name": "Master of Real Estate Development/Master of Business Administration (MRED/MBA)",
+                "id": "7296"
+            },
+            {
+                "name": "Master of Science, Gerontology/Doctor of Pharmacy (PharmD/MS)",
+                "id": "7832"
+            },
+            {
+                "name": "Master of Science, Gerontology/Juris Doctor (MS/JD)",
+                "id": "8141"
+            },
+            {
+                "name": "Master of Science, Gerontology/Master of Business Administration (MS/MBA)",
+                "id": "7831"
+            },
+            {
+                "name": "Master of Science, Gerontology/Master of Health Administration (MS/MHA)",
+                "id": "8143"
+            },
+            {
+                "name": "Master of Science, Gerontology/Master of Planning (MS/MPl)",
+                "id": "8144"
+            },
+            {
+                "name": "Master of Science, Gerontology/Master of Public Administration (MS/MPA)",
+                "id": "8142"
+            },
+            {
+                "name": "Master of Science, Gerontology/Master of Social Work (MS/MSW)",
+                "id": "8061"
+            },
+            {
+                "name": "Master of Science, Global Medicine/Doctor of Pharmacy (PharmD/MS)",
+                "id": "7874"
+            },
+            {
+                "name": "Master of Science, Industrial and Systems Engineering/Master of Business Administration (MS/MBA)",
+                "id": "7795"
+            },
+            {
+                "name": "Master of Science, Petroleum Engineering/Master of Science, Engineering Management (MS/MS))",
+                "id": "8122"
+            },
+            {
+                "name": "Master of Science, Systems Architecting and Engineering/Master of Business Administration (MS/MBA)",
+                "id": "10329"
+            },
+            {
+                "name": "Master of Social Work/Doctor of Philosophy (MSW/PhD)",
+                "id": "8026"
+            },
+            {
+                "name": "Master of Social Work/Juris Doctor, Law (MSW/JD)",
+                "id": "8139"
+            },
+            {
+                "name": "Master of Social Work/Master of Arts, Jewish Nonprofit Management (MSW/MA)",
+                "id": "8029"
+            },
+            {
+                "name": "Master of Social Work/Master of Business Administration (MSW/MBA)",
+                "id": "8140"
+            },
+            {
+                "name": "Master of Social Work/Master of Planning (MSW/MPl)",
+                "id": "8027"
+            },
+            {
+                "name": "Master of Social Work/Master of Public Administration (MSW/MPA)",
+                "id": "8060"
+            },
+            {
+                "name": "Master of Social Work/Master of Public Health (MSW/MPH)",
+                "id": "8028"
+            },
+            {
+                "name": "Master of Social Work/Master of Science, Gerontology (MSW/MS)",
+                "id": "7833"
+            },
+            {
+                "name": "Medicine (MD/PhD)",
+                "id": "7862"
+            }
+        ]
+    },
+    {
+        "category": "Doctoral Degree",
+        "programs": [
+            {
+                "name": "Aerospace Engineering (PhD)",
+                "id": "10346"
+            },
+            {
+                "name": "American Studies and Ethnicity (PhD)",
+                "id": "7371"
+            },
+            {
+                "name": "Applied Mathematics (PhD)",
+                "id": "7538"
+            },
+            {
+                "name": "Architecture (PhD)",
+                "id": "7263"
+            },
+            {
+                "name": "Art History (PhD)",
+                "id": "7389"
+            },
+            {
+                "name": "Astronautical Engineering (PhD)",
+                "id": "8048"
+            },
+            {
+                "name": "Biokinesiology (PhD)",
+                "id": "7838"
+            },
+            {
+                "name": "Biology of Aging (PhD)",
+                "id": "7835"
+            },
+            {
+                "name": "Biomedical Engineering (PhD)",
+                "id": "7731"
+            },
+            {
+                "name": "Biostatistics (PhD)",
+                "id": "7900"
+            },
+            {
+                "name": "Business Administration (PhD)",
+                "id": "7325"
+            },
+            {
+                "name": "Cancer Biology and Genomics (PhD)",
+                "id": "7865"
+            },
+            {
+                "name": "Chemical Engineering (PhD)",
+                "id": "7740"
+            },
+            {
+                "name": "Chemistry (Chemical Physics) (PhD)",
+                "id": "7416"
+            },
+            {
+                "name": "Chemistry (PhD)",
+                "id": "7415"
+            },
+            {
+                "name": "Choral Music (DMA)",
+                "id": "7943"
+            },
+            {
+                "name": "Cinema and Media Studies (PhD)",
+                "id": "8126"
+            },
+            {
+                "name": "Cinematic Arts (Critical Studies) (PhD)",
+                "id": "7334"
+            },
+            {
+                "name": "Cinematic Arts (Media Arts and Practice) (PhD)",
+                "id": "7344"
+            },
+            {
+                "name": "Civil Engineering (PhD)",
+                "id": "7754"
+            },
+            {
+                "name": "Classics (PhD)",
+                "id": "7420"
+            },
+            {
+                "name": "Clinical and Experimental Therapeutics (PhD)",
+                "id": "7963"
+            },
+            {
+                "name": "Communication (PhD)",
+                "id": "7638"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (Comparative Literature) (PhD)",
+                "id": "7426"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (Comparative Media and Culture) (PhD)",
+                "id": "7424"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (French and Francophone Studies) (PhD)",
+                "id": "7428"
+            },
+            {
+                "name": "Comparative Studies in Literature and Culture (Spanish and Latin American Studies) (PhD)",
+                "id": "7430"
+            },
+            {
+                "name": "Composition (DMA)",
+                "id": "7944"
+            },
+            {
+                "name": "Computational Biology and Bioinformatics (PhD)",
+                "id": "7405"
+            },
+            {
+                "name": "Computer Engineering (PhD)",
+                "id": "7760"
+            },
+            {
+                "name": "Computer Science (PhD)",
+                "id": "7777"
+            },
+            {
+                "name": "Craniofacial Biology (PhD)",
+                "id": "7669"
+            },
+            {
+                "name": "Dental Surgery (DDS)",
+                "id": "7654"
+            },
+            {
+                "name": "Development, Stem Cells, and Regenerative Medicine (PhD)",
+                "id": "7866"
+            },
+            {
+                "name": "Doctor of Education (EdD)",
+                "id": "8050"
+            },
+            {
+                "name": "Doctor of Nurse Anesthesia Practice",
+                "id": "8082"
+            },
+            {
+                "name": "East Asian Languages and Cultures (PhD)",
+                "id": "7448"
+            },
+            {
+                "name": "Economics (PhD)",
+                "id": "7459"
+            },
+            {
+                "name": "Electrical Engineering (PhD)",
+                "id": "7787"
+            },
+            {
+                "name": "Engineering (Environmental Engineering) (PhD)",
+                "id": "7755"
+            },
+            {
+                "name": "English and American Literature (PhD)",
+                "id": "7468"
+            },
+            {
+                "name": "Epidemiology (PhD)",
+                "id": "7901"
+            },
+            {
+                "name": "Geological Sciences (PhD)",
+                "id": "7437"
+            },
+            {
+                "name": "Gerontology (PhD)",
+                "id": "7834"
+            },
+            {
+                "name": "Global Executive (EdD)",
+                "id": "7707"
+            },
+            {
+                "name": "Health Economics (PhD)",
+                "id": "7964"
+            },
+            {
+                "name": "History (PhD)",
+                "id": "7500"
+            },
+            {
+                "name": "Industrial and Systems Engineering (PhD)",
+                "id": "7796"
+            },
+            {
+                "name": "Integrative and Evolutionary Biology (PhD)",
+                "id": "7406"
+            },
+            {
+                "name": "Jazz Studies (DMA)",
+                "id": "7945"
+            },
+            {
+                "name": "Law (JD)",
+                "id": "7846"
+            },
+            {
+                "name": "Linguistics (PhD)",
+                "id": "7522"
+            },
+            {
+                "name": "Linguistics (Specialization in East Asian Linguistics) (PhD)",
+                "id": "7523"
+            },
+            {
+                "name": "Linguistics (Specialization in Slavic Linguistics) (PhD)",
+                "id": "7524"
+            },
+            {
+                "name": "Literature and Creative Writing (PhD)",
+                "id": "7469"
+            },
+            {
+                "name": "Marine Biology and Biological Oceanography (PhD)",
+                "id": "7401"
+            },
+            {
+                "name": "Materials Science (PhD)",
+                "id": "7742"
+            },
+            {
+                "name": "Mathematics (PhD)",
+                "id": "7539"
+            },
+            {
+                "name": "Mechanical Engineering (PhD)",
+                "id": "10345"
+            },
+            {
+                "name": "Medical Biology (PhD)",
+                "id": "7867"
+            },
+            {
+                "name": "Medical Biophysics (PhD)",
+                "id": "8196"
+            },
+            {
+                "name": "Medicine (MD)",
+                "id": "7861"
+            },
+            {
+                "name": "Molecular Biology (PhD)",
+                "id": "7404"
+            },
+            {
+                "name": "Molecular Pharmacology and Toxicology (PhD)",
+                "id": "7967"
+            },
+            {
+                "name": "Music, Historical Musicology Emphasis, (PhD)",
+                "id": "7953"
+            },
+            {
+                "name": "Neuroscience (PhD)",
+                "id": "7229"
+            },
+            {
+                "name": "Occupational Science (PhD)",
+                "id": "7845"
+            },
+            {
+                "name": "Occupational Therapy (OTD)",
+                "id": "7844"
+            },
+            {
+                "name": "Ocean Sciences (PhD)",
+                "id": "7548"
+            },
+            {
+                "name": "Organizational Change and Leadership (EdD)",
+                "id": "7706"
+            },
+            {
+                "name": "Performance - Organ, Percussion, Strings, Vocal Arts, or Winds (DMA)",
+                "id": "7946"
+            },
+            {
+                "name": "Performance — Classical Guitar (DMA)",
+                "id": "7950"
+            },
+            {
+                "name": "Performance — Early Music (DMA)",
+                "id": "7949"
+            },
+            {
+                "name": "Performance — Keyboard Collaborative Arts (DMA)",
+                "id": "7948"
+            },
+            {
+                "name": "Performance — Piano (DMA)",
+                "id": "7947"
+            },
+            {
+                "name": "Performance — Studio Guitar (DMA)",
+                "id": "7951"
+            },
+            {
+                "name": "Petroleum Engineering (PhD)",
+                "id": "7748"
+            },
+            {
+                "name": "Pharmaceutical Economics and Policy (PhD)",
+                "id": "7460"
+            },
+            {
+                "name": "Pharmaceutical Sciences (PhD)",
+                "id": "7966"
+            },
+            {
+                "name": "Pharmacy (PharmD)",
+                "id": "7954"
+            },
+            {
+                "name": "Philosophy (PhD)",
+                "id": "7558"
+            },
+            {
+                "name": "Physics (PhD)",
+                "id": "7570"
+            },
+            {
+                "name": "Policy, Planning, and Development (DPPD)",
+                "id": "8024"
+            },
+            {
+                "name": "Political Science and International Relations (PhD)",
+                "id": "7578"
+            },
+            {
+                "name": "Population, Health and Place (PhD)",
+                "id": "8056"
+            },
+            {
+                "name": "Preventive Medicine (Health Behavior Research) (PhD)",
+                "id": "7902"
+            },
+            {
+                "name": "Professional Entry-Level Doctor of Physical Therapy Program (DPT)",
+                "id": "8068"
+            },
+            {
+                "name": "Psychology (PhD)",
+                "id": "7589"
+            },
+            {
+                "name": "Public Policy and Management (PhD)",
+                "id": "8022"
+            },
+            {
+                "name": "Regulatory Science (DRSc)",
+                "id": "7962"
+            },
+            {
+                "name": "Religion (PhD)",
+                "id": "7596"
+            },
+            {
+                "name": "Sacred Music (DMA)",
+                "id": "7952"
+            },
+            {
+                "name": "Slavic Languages and Literatures (PhD)",
+                "id": "7601"
+            },
+            {
+                "name": "Social Work (DSW)",
+                "id": "8129"
+            },
+            {
+                "name": "Social Work (PhD)",
+                "id": "8030"
+            },
+            {
+                "name": "Sociology (PhD)",
+                "id": "7609"
+            },
+            {
+                "name": "Teaching and Learning (DMA)",
+                "id": "8120"
+            },
+            {
+                "name": "Urban Education Policy (PhD)",
+                "id": "10304"
+            },
+            {
+                "name": "Urban Planning and Development (PhD)",
+                "id": "8023"
+            }
+        ]
+    },
+    {
+        "category": "Other Programs",
+        "programs": [
+            {
+                "name": "General Education",
+                "id": "7227"
+            }
+        ]
+    }
+]
